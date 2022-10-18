@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * prinsint - prints int begining with spac
+ * prinsint - prints int begining with space
  * @arguments: input string
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
