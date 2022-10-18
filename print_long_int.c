@@ -1,4 +1,4 @@
-#include "main.h"
+#includ "main.h"
 /**
  * prinlint - prints a long integer
  * @arguments: input string
