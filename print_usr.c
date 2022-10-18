@@ -1,4 +1,4 @@
-#includ "main.h"
+#include "main.h"
 /**
  * print_usr - prints a string and values of
  * non-printed chars
